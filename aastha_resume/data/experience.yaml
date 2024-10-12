@@ -1,0 +1,63 @@
+- company: SenecaGlobal
+  roles:
+    - role: Technical Analyst
+      tools: SQL, Python, REST APIs, AWS, Snowflake, Apache Airflow
+      details: |
+       Contributed independently to the Greenstreet project,
+       developed APIs, managing databases, and building data pipelines to ingest data from various sources.
+       Optimized pipelines using multithreading, achieving a 40% performance boost, and utilized FastAPI for
+       efficient data access. Implemented indexing in database tables to enhance query performance and data
+       retrieval efficiency.
+
+      date: 11.2023 -  8.2024
+
+- company: Indiamart Intermesh Ltd
+  page: 1
+  roles: 
+    - role: Senior Software Developer
+      tools: SQL, Flink, Kafka
+      details: |
+        Developed a Lakehouse for data management using Apache Hudi and Apache Spark.
+        Built a complete data pipeline to consume data from Kafka, transforming and storing it in Hudi table format in
+        a GCS bucket using PySpark.
+        Created a Flask API to retrieve data from the GCS bucket and BigQuery.
+
+      date: 01.2023 - 11.2023
+
+
+- company: LinkedIn Consultant
+  page: 2
+  roles:
+    - role: Software Developer
+      tools: Python, Web-scraping, MySQL, AWS
+      details: |
+        Collaborated on a Python web scraping project with a team of 15 to develop the Jobs section data for
+        LinkedIn. Utilized Python libraries to fetch job data from various sources, including XML, API, HTMI and
+        JSON.
+        Stored it in AWS S3. Analyzed career sites of different companies and created or modified spiders to extract
+        relevant job data
+
+      date: 2021 - 2023
+
+
+- company: RWS Moravia
+  page: 2
+  roles:
+    - role: Software Developer
+      tools: Python, REST APIs, MySQl, Data processing
+      details: |
+        Medical Data Analysis - Developed data visualizations to analyze hospital and doctor performance metrics,
+        improving decision-making efficiency. Optimized data pre-processing using Python, managed databases, and
+        created models for Microsoft SQL Server to streamline data retrieval. Built a Flask API for efficient data
+        migration to the front end, enhancing visualization speed and performance.
+        Code Review System - Developed a text classification model for detecting i18n rule violations and suggesting
+        corrections. Created a
+        POC, later accepted as a full project. Trained and deployed machine learning models using TensorFlow and
+        Keras for classification and recommendation. Built real-time APIs to deliver classification and recommendation
+        results.
+        Parts-town - Developed a chatbot to recommend the five most likely appliance parts for replacement in case
+        of issues. Utilized IBM Watson
+        API and integrated it with a Flask application. Created Flask APIs for real-time responses, managed the
+        database, and implemented logic to derive accurate output.
+
+      date: 2018 - 2021
