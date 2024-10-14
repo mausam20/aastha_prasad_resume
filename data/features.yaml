@@ -1,8 +1,8 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  name: Aastha Prasad
+  tagline: MSIS student at University of Arizona
+  phone: "(520)-244-5443"
+  email: aasthaprasad@arizona.edu
   links:
     - title: /in/mertbakir
       url: https://tr.linkedin.com/in/mertbakir
@@ -14,28 +14,28 @@ about:
       url: https://github.com/mertbakir
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    A dedicated Information Science master's student with a background in software engineering and expertise in API
+    development, database management, and data pipelines. Strong interest in data science, machine learning, and risk
+    management, with a focus on developing impactful data-driven solutions.
 
 
 skills:
   - groupName: Databases & Visualization
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - Seaborn - Tableau - PowerBI
 
   - groupName: Data Analysis & Analytics
     list:
       - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - Excel - Snowflake
 
   - groupName: Programming & Systems
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - Python - Git - Docker - Tensorflow
+      - NLP - CNN - LLM - Scikit-learn
+      - FastAPI - Flask
+      - Web-scraping
+      - Linux
 
 interests:
   - Data Science
@@ -52,7 +52,7 @@ languages:
       - "YDS: 86.25 - 2018"
       - "TOEFL: 109 - 2021"
 
-# This will use the default widget: "details-list"
+#This will use the default widget: "details-list"
 awards:
   - title: "Tübitak - Graduation Project"
     date: "2017"
@@ -71,12 +71,12 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
+  - title: "DeepLearning.AI Deep "
     subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+    date: "2021"
+    link: https://www.coursera.org/account/accomplishments/specialization/LT7WZEXPA3TP # This link will be on title level.
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  - title: "Tensorflow Developer "
+    subtitle: Tensorflow
+    date: "2021"
+    link: https://www.credential.net/02e0d62e-58f7-463c-8ebe-243b862f8f8e#gs.giilgn

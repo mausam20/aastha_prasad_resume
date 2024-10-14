@@ -57,7 +57,6 @@ params:
     tagline: true
     links: false
   side:
-    - feature: languages
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
@@ -75,14 +74,14 @@ params:
           title: Experience (Cont.)
         - feature: projects
           collection: projects
-        - feature: publications
-          style: IEEE # IEEE, APA, else
-        - feature: awards
-        - feature: certificates
-          title: Certifications
-        - feature: interests
-          widget: word-list
-          style: list
+#        - feature: publications
+#          style: IEEE # IEEE, APA, else
+#        - feature: awards
+#        - feature: certificates
+#          title: Certifications
+#        - feature: interests
+#          widget: word-list
+#          style: list
   experience:
     tools: 
       show: false
@@ -103,7 +102,7 @@ params:
     externalLinkIcon: false
         
   footer:
-    show: true
+    show: False
     credits: true
     footnote: >-
       You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
