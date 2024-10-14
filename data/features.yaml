@@ -1,8 +1,8 @@
 about:
-  name: Aastha Prasad
-  tagline: MSIS student at University of Arizona
-  phone: "(520)-244-5443"
-  email: aasthaprasad@arizona.edu
+  name: Mert Bakir
+  tagline: Data Scientist
+  phone: "5070*4****"
+  email: yourmail@yourdomain
   links:
     - title: /in/mertbakir
       url: https://tr.linkedin.com/in/mertbakir
@@ -23,20 +23,19 @@ about:
 skills:
   - groupName: Databases & Visualization
     list:
-      - Seaborn - Tableau - PowerBI
+      - Grafana - Kibana - PowerBI
+      - InfluxDB - TICK Stack
 
   - groupName: Data Analysis & Analytics
     list:
       - Python - R - SQL
-      - Excel - Snowflake
+      - Excel - Minitab - SPSS
+      - GAMS - PuLP - OR Tools
 
   - groupName: Programming & Systems
     list:
-      - Python - Git - Docker - Tensorflow
-      - NLP - CNN - LLM - Scikit-learn
-      - FastAPI - Flask
-      - Web-scraping
-      - Linux
+      - C# - Git - Docker - NGINX
+      - Linux - CentOS RHEL
 
 interests:
   - Data Science
@@ -53,7 +52,7 @@ languages:
       - "YDS: 86.25 - 2018"
       - "TOEFL: 109 - 2021"
 
-#This will use the default widget: "details-list"
+# This will use the default widget: "details-list"
 awards:
   - title: "Tübitak - Graduation Project"
     date: "2017"
@@ -72,12 +71,12 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "DeepLearning.AI Deep "
+  - title: "Supervised Learning: Regression"
     subtitle: Coursera
-    date: "2021"
-    link: https://www.coursera.org/account/accomplishments/specialization/LT7WZEXPA3TP # This link will be on title level.
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
 
-  - title: "Tensorflow Developer "
-    subtitle: Tensorflow
-    date: "2021"
-    link: https://www.credential.net/02e0d62e-58f7-463c-8ebe-243b862f8f8e#gs.giilgn
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/
